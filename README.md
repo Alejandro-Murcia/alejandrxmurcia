@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejandrxmurcia
 - 👀 Currentyl I’m a Data Science student.
-- 🌱 I’m currently learning the core foundations of Computer Science and Data Science in order to get solid abilities and knowledge to take up bigger project :)
+- 🌱 I’m currently learning the core foundations of Computer Science and Data Science in order to get solid abilities and knowledge to take up bigger projects :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
